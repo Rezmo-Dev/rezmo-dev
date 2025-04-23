@@ -1,3 +1,5 @@
+![logo](./logo.png)
+
 ## ✨ About Me:
 Hello and Welcome to my Github page. <br>Im `Reza Moradi` a Junior FrontEnd Developer and Interested in programming 😁
 
